@@ -1,3 +1,4 @@
+#Repo push to git directly
 class Category:
     def __init__(self, name):
         self.ledger = []
